@@ -17,6 +17,6 @@ Note:
 
 Many of groceries they sell in their store are self manufactured or grown on their farms which makes the buying price of many of their grocery items $0.00. This means all revenue earned on these items is a profit. The rest of the produce is bought from outside vendors which is why the buying price is above $0.00. 
 
-## The research questions:
+## Research Questions:
 * Which items should the store stop selling? Why?
 * How does the year 2017 compare to the year 2018? Were there any significant changes in purchasing habits of the customers?
